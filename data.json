@@ -122,6 +122,23 @@
         "img/outfit/nop/1.png",
         "img/outfit/nop/2.png"
       ]
+      },
+    "FP008": {
+      "name": "Nami",
+      "sn": "FP008",
+      "reg": "FP00814042026F",
+      "sex": "Female",
+      "deploy": "14/04/2026",
+      "height_no_ears": 130,
+      "height_with_ears": 130,
+      "model": "Nanami",
+      "profile": "img/pic/Nami.png",
+      "subtitle": "FP007 | FP00814042025F | EBS",
+      "role": "EBS",
+      "outfits": [
+        "img/outfit/nami/1.png",
+        "img/outfit/nami/2.png"
+      ]
     }
   }
 }
