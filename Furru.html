@@ -270,7 +270,7 @@ function updateHero(fp){
   heroTitle.textContent = fp.name || "Unknown Unit";
   heroSub.textContent = fp.subtitle || "";
 
-  document.title = (fp.sn || "Unit") + " | IAF";
+  document.title = (fp.sn || "Unit") + " | " + (fp.name || "Unit");
 }
 
 function updateOverview(fp){
